@@ -1,0 +1,1 @@
+This is a demo version of the Blueprint AI Assistant User's Guide.
