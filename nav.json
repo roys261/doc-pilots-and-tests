@@ -1,0 +1,85 @@
+{
+  "chapters": [
+    {
+      "title": "Chapter 1: Overview",
+      "topics": [
+        {
+          "title": "Blueprint Assist Overview",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-01-overview/01-dap_das_c_bp-assist_overview.md"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Installation and Setup",
+      "topics": [
+        {
+          "title": "Prerequisites",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/01-dap_das_c_install_bp_pre-reqs.md"
+        },
+        {
+          "title": "Install Blueprint Assist",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/02-dap_das_t_install_bp-assist.md"
+        },
+        {
+          "title": "Windows Installation",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/03-dap_das_t_install_bp_assist_windows.md"
+        },
+        {
+          "title": "Linux Installation",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/04-dap_das_t_install_bp_assist_linux.md"
+        },
+        {
+          "title": "IDE Integration",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/05-dap_das_bpa_integrate_the_ide.md"
+        },
+        {
+          "title": "Supported IDEs",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/06-dap_das_bpa_supported_ide_targets.md"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Dell Automation Studio Capabilities",
+      "topics": [
+        {
+          "title": "Authoring Capabilities",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/01-dap_das_c_authoring_capabilities.md"
+        },
+        {
+          "title": "Deployment Capabilities",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/02-dap_das_c_deployment_capabilties.md"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Building Blueprints",
+      "topics": [
+        {
+          "title": "Building Blueprints with BPA",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-04-building-blueprints/01-dap_das_building_blueprints_with_bpa.md"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Additional Features",
+      "topics": [
+        {
+          "title": "Blueprint Linting",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/01-dap_das_c_blueprint_linting.md"
+        },
+        {
+          "title": "Blueprint Reasoning",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/02-dap_das_c_blueprint_reasoning.md"
+        },
+        {
+          "title": "MCP Server",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/03-dap_das_c_bpa_mcp_server.md"
+        },
+        {
+          "title": "Diagnostician",
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/04-dap_das_c_diagnostician.md"
+        }
+      ]
+    }
+  ]
+}

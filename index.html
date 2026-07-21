@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueprint AI Assistant User's Guide</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>Documentation</h1>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+            
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search documentation..." class="search-input">
+            </div>
+            
+            <nav class="navigation" id="navigation">
+                <!-- Navigation will be generated dynamically -->
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="content-wrapper">
+                <div id="loading" class="loading hidden">
+                    <div class="spinner"></div>
+                    <p>Loading documentation...</p>
+                </div>
+                
+                <div id="error" class="error hidden">
+                    <h2>Error</h2>
+                    <p id="errorMessage">Failed to load documentation.</p>
+                </div>
+                
+                <article id="content" class="markdown-content">
+                    <!-- Markdown content will be rendered here -->
+                </article>
+            </div>
+        </main>
+    </div>
+    
+    <script src="js/app.js"></script>
+</body>
+</html>
