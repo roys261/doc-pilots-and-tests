@@ -1,82 +1,215 @@
 {
   "chapters": [
     {
-      "title": "Chapter 1: Overview",
+      "title": {
+        "en": "Chapter 1: Overview",
+        "es": "Capítulo 1: Resumen",
+        "fr": "Chapitre 1: Aperçu",
+        "de": "Kapitel 1: Übersicht",
+        "zh": "第1章：概述",
+        "ja": "第1章：概要"
+      },
       "topics": [
         {
-          "title": "Blueprint Assist Overview",
+          "title": {
+            "en": "Blueprint Assist Overview",
+            "es": "Resumen de Blueprint Assist",
+            "fr": "Aperçu de Blueprint Assist",
+            "de": "Übersicht über Blueprint Assist",
+            "zh": "Blueprint Assist 概述",
+            "ja": "Blueprint Assist の概要"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-01-overview/01-dap_das_c_bp-assist_overview.md"
         }
       ]
     },
     {
-      "title": "Chapter 2: Installation and Setup",
+      "title": {
+        "en": "Chapter 2: Installation and Setup",
+        "es": "Capítulo 2: Instalación y Configuración",
+        "fr": "Chapitre 2: Installation et Configuration",
+        "de": "Kapitel 2: Installation und Einrichtung",
+        "zh": "第2章：安装和设置",
+        "ja": "第2章：インストールと設定"
+      },
       "topics": [
         {
-          "title": "Prerequisites",
+          "title": {
+            "en": "Prerequisites",
+            "es": "Requisitos previos",
+            "fr": "Prérequis",
+            "de": "Voraussetzungen",
+            "zh": "先决条件",
+            "ja": "前提条件"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/01-dap_das_c_install_bp_pre-reqs.md"
         },
         {
-          "title": "Install Blueprint Assist",
+          "title": {
+            "en": "Install Blueprint Assist",
+            "es": "Instalar Blueprint Assist",
+            "fr": "Installer Blueprint Assist",
+            "de": "Blueprint Assist installieren",
+            "zh": "安装 Blueprint Assist",
+            "ja": "Blueprint Assist をインストール"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/02-dap_das_t_install_bp-assist.md"
         },
         {
-          "title": "Windows Installation",
+          "title": {
+            "en": "Windows Installation",
+            "es": "Instalación en Windows",
+            "fr": "Installation Windows",
+            "de": "Windows-Installation",
+            "zh": "Windows 安装",
+            "ja": "Windows インストール"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/03-dap_das_t_install_bp_assist_windows.md"
         },
         {
-          "title": "Linux Installation",
+          "title": {
+            "en": "Linux Installation",
+            "es": "Instalación en Linux",
+            "fr": "Installation Linux",
+            "de": "Linux-Installation",
+            "zh": "Linux 安装",
+            "ja": "Linux インストール"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/04-dap_das_t_install_bp_assist_linux.md"
         },
         {
-          "title": "IDE Integration",
+          "title": {
+            "en": "IDE Integration",
+            "es": "Integración con IDE",
+            "fr": "Intégration IDE",
+            "de": "IDE-Integration",
+            "zh": "IDE 集成",
+            "ja": "IDE との統合"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/05-dap_das_bpa_integrate_the_ide.md"
         },
         {
-          "title": "Supported IDEs",
+          "title": {
+            "en": "Supported IDEs",
+            "es": "IDEs compatibles",
+            "fr": "IDE pris en charge",
+            "de": "Unterstützte IDEs",
+            "zh": "支持的 IDE",
+            "ja": "サポートされている IDE"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/06-dap_das_bpa_supported_ide_targets.md"
         }
       ]
     },
     {
-      "title": "Chapter 3: Dell Automation Studio Capabilities",
+      "title": {
+        "en": "Chapter 3: Dell Automation Studio Capabilities",
+        "es": "Capítulo 3: Capacidades de Dell Automation Studio",
+        "fr": "Chapitre 3: Capacités de Dell Automation Studio",
+        "de": "Kapitel 3: Funktionen von Dell Automation Studio",
+        "zh": "第3章：Dell Automation Studio 功能",
+        "ja": "第3章：Dell Automation Studio の機能"
+      },
       "topics": [
         {
-          "title": "Authoring Capabilities",
+          "title": {
+            "en": "Authoring Capabilities",
+            "es": "Capacidades de autoría",
+            "fr": "Capacités d'auteur",
+            "de": "Erstellungsfunktionen",
+            "zh": "创作功能",
+            "ja": "作成機能"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/01-dap_das_c_authoring_capabilities.md"
         },
         {
-          "title": "Deployment Capabilities",
+          "title": {
+            "en": "Deployment Capabilities",
+            "es": "Capacidades de despliegue",
+            "fr": "Capacités de déploiement",
+            "de": "Bereitstellungsfunktionen",
+            "zh": "部署功能",
+            "ja": "デプロイ機能"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/02-dap_das_c_deployment_capabilties.md"
         }
       ]
     },
     {
-      "title": "Chapter 4: Building Blueprints",
+      "title": {
+        "en": "Chapter 4: Building Blueprints",
+        "es": "Capítulo 4: Creación de Blueprints",
+        "fr": "Chapitre 4: Création de Blueprints",
+        "de": "Kapitel 4: Blueprints erstellen",
+        "zh": "第4章：构建蓝图",
+        "ja": "第4章：ブループリントの作成"
+      },
       "topics": [
         {
-          "title": "Building Blueprints with BPA",
+          "title": {
+            "en": "Building Blueprints with BPA",
+            "es": "Creación de Blueprints con BPA",
+            "fr": "Création de Blueprints avec BPA",
+            "de": "Blueprints mit BPA erstellen",
+            "zh": "使用 BPA 构建蓝图",
+            "ja": "BPA によるブループリント作成"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-04-building-blueprints/01-dap_das_building_blueprints_with_bpa.md"
         }
       ]
     },
     {
-      "title": "Chapter 5: Additional Features",
+      "title": {
+        "en": "Chapter 5: Additional Features",
+        "es": "Capítulo 5: Características Adicionales",
+        "fr": "Chapitre 5: Fonctionnalités Additionnelles",
+        "de": "Kapitel 5: Zusätzliche Funktionen",
+        "zh": "第5章：附加功能",
+        "ja": "第5章：追加機能"
+      },
       "topics": [
         {
-          "title": "Blueprint Linting",
+          "title": {
+            "en": "Blueprint Linting",
+            "es": "Linting de Blueprints",
+            "fr": "Linting de Blueprints",
+            "de": "Blueprint-Linting",
+            "zh": "蓝图检查",
+            "ja": "ブループリントのリンティング"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/01-dap_das_c_blueprint_linting.md"
         },
         {
-          "title": "Blueprint Reasoning",
+          "title": {
+            "en": "Blueprint Reasoning",
+            "es": "Razonamiento de Blueprints",
+            "fr": "Raisonnement de Blueprints",
+            "de": "Blueprint-Reasoning",
+            "zh": "蓝图推理",
+            "ja": "ブループリントの推論"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/02-dap_das_c_blueprint_reasoning.md"
         },
         {
-          "title": "MCP Server",
+          "title": {
+            "en": "MCP Server",
+            "es": "Servidor MCP",
+            "fr": "Serveur MCP",
+            "de": "MCP-Server",
+            "zh": "MCP 服务器",
+            "ja": "MCP サーバー"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/03-dap_das_c_bpa_mcp_server.md"
         },
         {
-          "title": "Diagnostician",
+          "title": {
+            "en": "Diagnostician",
+            "es": "Diagnosticador",
+            "fr": "Diagnostician",
+            "de": "Diagnostiker",
+            "zh": "诊断程序",
+            "ja": "診断プログラム"
+          },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/04-dap_das_c_diagnostician.md"
         }
       ]

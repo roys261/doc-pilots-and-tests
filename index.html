@@ -8,14 +8,30 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
+    <header class="dell-header">
+        <div class="dell-logo">
+            <span class="dell-text">DELL</span>
+            <span class="technologies-text">Technologies</span>
+        </div>
+    </header>
     <div class="app-container">
         <!-- Sidebar -->
         <aside class="sidebar">
             <div class="sidebar-header">
                 <h1>Documentation</h1>
-                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-                    <span class="theme-icon">🌙</span>
-                </button>
+                <div class="header-controls">
+                    <select id="languageSelector" class="language-selector" aria-label="Select language">
+                        <option value="en">English</option>
+                        <option value="es">Español</option>
+                        <option value="fr">Français</option>
+                        <option value="de">Deutsch</option>
+                        <option value="zh">中文</option>
+                        <option value="ja">日本語</option>
+                    </select>
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                        <span class="theme-icon">🌙</span>
+                    </button>
+                </div>
             </div>
             
             <div class="search-container">
@@ -25,6 +41,8 @@
             <nav class="navigation" id="navigation">
                 <!-- Navigation will be generated dynamically -->
             </nav>
+            
+            <div class="resize-handle" id="resizeHandle" aria-label="Resize sidebar"></div>
         </aside>
         
         <!-- Main Content -->

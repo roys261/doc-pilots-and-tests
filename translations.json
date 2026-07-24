@@ -1,0 +1,50 @@
+{
+  "en": {
+    "searchPlaceholder": "Search documentation...",
+    "loading": "Loading documentation...",
+    "error": "Error",
+    "errorMessage": "Failed to load documentation.",
+    "documentation": "Documentation",
+    "themeToggle": "Toggle dark mode"
+  },
+  "es": {
+    "searchPlaceholder": "Buscar documentación...",
+    "loading": "Cargando documentación...",
+    "error": "Error",
+    "errorMessage": "Error al cargar la documentación.",
+    "documentation": "Documentación",
+    "themeToggle": "Cambiar modo oscuro"
+  },
+  "fr": {
+    "searchPlaceholder": "Rechercher dans la documentation...",
+    "loading": "Chargement de la documentation...",
+    "error": "Erreur",
+    "errorMessage": "Échec du chargement de la documentation.",
+    "documentation": "Documentation",
+    "themeToggle": "Basculer en mode sombre"
+  },
+  "de": {
+    "searchPlaceholder": "Dokumentation durchsuchen...",
+    "loading": "Dokumentation wird geladen...",
+    "error": "Fehler",
+    "errorMessage": "Dokumentation konnte nicht geladen werden.",
+    "documentation": "Dokumentation",
+    "themeToggle": "Dunkelmodus umschalten"
+  },
+  "zh": {
+    "searchPlaceholder": "搜索文档...",
+    "loading": "正在加载文档...",
+    "error": "错误",
+    "errorMessage": "无法加载文档。",
+    "documentation": "文档",
+    "themeToggle": "切换深色模式"
+  },
+  "ja": {
+    "searchPlaceholder": "ドキュメントを検索...",
+    "loading": "ドキュメントを読み込み中...",
+    "error": "エラー",
+    "errorMessage": "ドキュメントの読み込みに失敗しました。",
+    "documentation": "ドキュメント",
+    "themeToggle": "ダークモードを切り替え"
+  }
+}

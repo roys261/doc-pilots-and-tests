@@ -1,0 +1,59 @@
+---
+title: "Authentication and configuration"
+chapter: 3
+topic: "SSL certificate configuration"
+source: "Blueprint AI Assistant with Dell Automation Studio User Guide (July 2026, Rev. A00) and the Blueprint Assist Training repository"
+pdf_pages: "13-13"
+---
+
+# SSL certificate configuration
+
+When you are facing SSL certificate errors (such as self-signed certificates, development setups, or corporate proxies), you can
+use various methods to bypass or work around verification issues.
+
+Table 2. SSL certificate methods
+Method Usage example Scope
+--trust-all
+dap-bpa orchestrator
+blueprints list -o
+<orchestrator_name> --
+trust-all
+Single command
+--skip-ssl-verify
+dap-bpa orchestrator
+blueprints list -o
+<orchestrator_name> --skip-
+ssl-verify
+Single command
+--insecure
+dap-bpa orchestrator
+blueprints list -o
+<orchestrator_name> --
+insecure
+Single command
+NODE_TLS_REJECT_UNAUTHORIZED=
+0 NODE_TLS_REJECT_UNAUTHORIZE
+D=0 bpa orchestrator
+blueprints list
+Command or session
+Configuration based Set ssl_verify: false
+in the ~/.blueprint-assist/
+config.json file
+{
+  "orchestrators": {
+    " <orchestrator_name> ":
+{
+      "ssl_verify": false,
+
+"skip_ssl_verification":
+true
+    }
+  }
+}
+Global for profile
+> **NOTE:** The SSL validation bypass methods are applicable only when you are working in development environments.
+For production environments with valid SSL certificates, ensure that the SSL verification is enables by default.
+{
+  "ssl_verify": true,
+  "skip_ssl_verification": false
+}
