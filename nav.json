@@ -2,215 +2,357 @@
   "chapters": [
     {
       "title": {
-        "en": "Chapter 1: Overview",
-        "es": "Capítulo 1: Resumen",
-        "fr": "Chapitre 1: Aperçu",
-        "de": "Kapitel 1: Übersicht",
-        "zh": "第1章：概述",
-        "ja": "第1章：概要"
+        "en": "1 Devin Drafted Chapters"
       },
       "topics": [
         {
           "title": {
-            "en": "Blueprint Assist Overview",
-            "es": "Resumen de Blueprint Assist",
-            "fr": "Aperçu de Blueprint Assist",
-            "de": "Übersicht über Blueprint Assist",
-            "zh": "Blueprint Assist 概述",
-            "ja": "Blueprint Assist の概要"
+            "en": "Blueprint Assist Chapters and Topics"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-01-overview/01-dap_das_c_bp-assist_overview.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 1: Blueprint AI Assistant"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-01-blueprint-ai-assistant/index.md"
+        },
+        {
+          "title": {
+            "en": "Install Blueprint AI Assistant  on Linux or macOS"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-linux-or-macos.md"
+        },
+        {
+          "title": {
+            "en": "Install Blueprint AI Assistant  on Windows"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-windows.md"
+        },
+        {
+          "title": {
+            "en": "Install Blueprint AI Assistant  through standalone binary distribution (Recommended)"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-through-standalone-binary-distribution.md"
+        },
+        {
+          "title": {
+            "en": "Installation pre-requisites"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-installation-pre-requisites.md"
+        },
+        {
+          "title": {
+            "en": "Integrate the IDE"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-integrate-the-ide.md"
+        },
+        {
+          "title": {
+            "en": "Supported IDE targets"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-supported-ide-targets.md"
+        },
+        {
+          "title": {
+            "en": "Verify installation and integrations"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-verify-installation-and-integrations.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 2: Install and verify"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/index.md"
+        },
+        {
+          "title": {
+            "en": "Environment variables"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-environment-variables.md"
+        },
+        {
+          "title": {
+            "en": "Manual configuration"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-manual-configuration.md"
+        },
+        {
+          "title": {
+            "en": "Orchestrator authentication using Blueprint AI Assistant  setup wizard"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-orchestrator-authentication-using-blueprint-ai-assistant-setup-wizard.md"
+        },
+        {
+          "title": {
+            "en": "SSL certificate configuration"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-ssl-certificate-configuration.md"
+        },
+        {
+          "title": {
+            "en": "Types of credentials"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-types-of-credentials.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 3: Authentication and configuration"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/index.md"
+        },
+        {
+          "title": {
+            "en": "Configure the MCP server"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-04-blueprint-ai-assistant-mcp-server/04-configure-the-mcp-server.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 4: Blueprint AI Assistant  MCP server"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-04-blueprint-ai-assistant-mcp-server/index.md"
+        },
+        {
+          "title": {
+            "en": "Authoring capabilities"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-authoring-capabilities.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint AI Assistant  capabilities"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-blueprint-ai-assistant-capabilities.md"
+        },
+        {
+          "title": {
+            "en": "Deployment capabilities"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-deployment-capabilities.md"
+        },
+        {
+          "title": {
+            "en": "Maintenance capabilities"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-maintenance-capabilities.md"
+        },
+        {
+          "title": {
+            "en": "Review capabilities"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-review-capabilities.md"
+        },
+        {
+          "title": {
+            "en": "Task-specific commands"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-task-specific-commands.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 5: Skills overview and integration"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/index.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint file structure"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-blueprint-file-structure.md"
+        },
+        {
+          "title": {
+            "en": "Plugins and its usage"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-plugins-and-its-usage.md"
+        },
+        {
+          "title": {
+            "en": "Resolve the plugin availability issues"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-resolve-the-plugin-availability-issues.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 6: Blueprints and plugins"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/index.md"
+        },
+        {
+          "title": {
+            "en": "Create a blueprint directory"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-a-blueprint-directory.md"
+        },
+        {
+          "title": {
+            "en": "Create the blueprint"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-the-blueprint.md"
+        },
+        {
+          "title": {
+            "en": "Deploy the blueprint"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-deploy-the-blueprint.md"
+        },
+        {
+          "title": {
+            "en": "Troubleshoot any issues"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-troubleshoot-any-issues.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 7: Build blueprints with Blueprint AI Assistant"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/index.md"
+        },
+        {
+          "title": {
+            "en": "Diagnostician"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/08-diagnostician.md"
+        },
+        {
+          "title": {
+            "en": "Prerequisites"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/08-prerequisites.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 8: Blueprint monitoring and diagnostician"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/index.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint linting"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-linting.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint reasoning"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-reasoning.md"
+        },
+        {
+          "title": {
+            "en": "Section 021: Blueprint Visualizer"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-visualizer.md"
+        },
+        {
+          "title": {
+            "en": "Workflow wrappers"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-workflow-wrappers.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 9: Additional functionalities of Blueprint AI Assistant"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/index.md"
         }
       ]
     },
     {
       "title": {
-        "en": "Chapter 2: Installation and Setup",
-        "es": "Capítulo 2: Instalación y Configuración",
-        "fr": "Chapitre 2: Installation et Configuration",
-        "de": "Kapitel 2: Installation und Einrichtung",
-        "zh": "第2章：安装和设置",
-        "ja": "第2章：インストールと設定"
+        "en": "2 Xml Converted Chapters"
       },
       "topics": [
         {
           "title": {
-            "en": "Prerequisites",
-            "es": "Requisitos previos",
-            "fr": "Prérequis",
-            "de": "Voraussetzungen",
-            "zh": "先决条件",
-            "ja": "前提条件"
+            "en": "Blueprint AI Assistant"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/01-dap_das_c_install_bp_pre-reqs.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-01-overview/01-dap_das_c_bp-assist_overview.md"
         },
         {
           "title": {
-            "en": "Install Blueprint Assist",
-            "es": "Instalar Blueprint Assist",
-            "fr": "Installer Blueprint Assist",
-            "de": "Blueprint Assist installieren",
-            "zh": "安装 Blueprint Assist",
-            "ja": "Blueprint Assist をインストール"
+            "en": "Installation pre-requisites"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/02-dap_das_t_install_bp-assist.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/01-dap_das_c_install_bp_pre-reqs.md"
         },
         {
           "title": {
-            "en": "Windows Installation",
-            "es": "Instalación en Windows",
-            "fr": "Installation Windows",
-            "de": "Windows-Installation",
-            "zh": "Windows 安装",
-            "ja": "Windows インストール"
+            "en": "Install Blueprint AI Assistant through standalone binary distribution (Recommended)"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/03-dap_das_t_install_bp_assist_windows.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/02-dap_das_t_install_bp-assist.md"
         },
         {
           "title": {
-            "en": "Linux Installation",
-            "es": "Instalación en Linux",
-            "fr": "Installation Linux",
-            "de": "Linux-Installation",
-            "zh": "Linux 安装",
-            "ja": "Linux インストール"
+            "en": "Install Blueprint AI Assistant on Windows"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/04-dap_das_t_install_bp_assist_linux.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/03-dap_das_t_install_bp_assist_windows.md"
         },
         {
           "title": {
-            "en": "IDE Integration",
-            "es": "Integración con IDE",
-            "fr": "Intégration IDE",
-            "de": "IDE-Integration",
-            "zh": "IDE 集成",
-            "ja": "IDE との統合"
+            "en": "Install Blueprint AI Assistant on Linux or macOS"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/05-dap_das_bpa_integrate_the_ide.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/04-dap_das_t_install_bp_assist_linux.md"
         },
         {
           "title": {
-            "en": "Supported IDEs",
-            "es": "IDEs compatibles",
-            "fr": "IDE pris en charge",
-            "de": "Unterstützte IDEs",
-            "zh": "支持的 IDE",
-            "ja": "サポートされている IDE"
+            "en": "Integrate the IDE"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-02-install-and-setup/06-dap_das_bpa_supported_ide_targets.md"
-        }
-      ]
-    },
-    {
-      "title": {
-        "en": "Chapter 3: Dell Automation Studio Capabilities",
-        "es": "Capítulo 3: Capacidades de Dell Automation Studio",
-        "fr": "Chapitre 3: Capacités de Dell Automation Studio",
-        "de": "Kapitel 3: Funktionen von Dell Automation Studio",
-        "zh": "第3章：Dell Automation Studio 功能",
-        "ja": "第3章：Dell Automation Studio の機能"
-      },
-      "topics": [
-        {
-          "title": {
-            "en": "Authoring Capabilities",
-            "es": "Capacidades de autoría",
-            "fr": "Capacités d'auteur",
-            "de": "Erstellungsfunktionen",
-            "zh": "创作功能",
-            "ja": "作成機能"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/01-dap_das_c_authoring_capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/05-dap_das_bpa_integrate_the_ide.md"
         },
         {
           "title": {
-            "en": "Deployment Capabilities",
-            "es": "Capacidades de despliegue",
-            "fr": "Capacités de déploiement",
-            "de": "Bereitstellungsfunktionen",
-            "zh": "部署功能",
-            "ja": "デプロイ機能"
+            "en": "Supported IDE targets"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-03-das-capabilities/02-dap_das_c_deployment_capabilties.md"
-        }
-      ]
-    },
-    {
-      "title": {
-        "en": "Chapter 4: Building Blueprints",
-        "es": "Capítulo 4: Creación de Blueprints",
-        "fr": "Chapitre 4: Création de Blueprints",
-        "de": "Kapitel 4: Blueprints erstellen",
-        "zh": "第4章：构建蓝图",
-        "ja": "第4章：ブループリントの作成"
-      },
-      "topics": [
-        {
-          "title": {
-            "en": "Building Blueprints with BPA",
-            "es": "Creación de Blueprints con BPA",
-            "fr": "Création de Blueprints avec BPA",
-            "de": "Blueprints mit BPA erstellen",
-            "zh": "使用 BPA 构建蓝图",
-            "ja": "BPA によるブループリント作成"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-04-building-blueprints/01-dap_das_building_blueprints_with_bpa.md"
-        }
-      ]
-    },
-    {
-      "title": {
-        "en": "Chapter 5: Additional Features",
-        "es": "Capítulo 5: Características Adicionales",
-        "fr": "Chapitre 5: Fonctionnalités Additionnelles",
-        "de": "Kapitel 5: Zusätzliche Funktionen",
-        "zh": "第5章：附加功能",
-        "ja": "第5章：追加機能"
-      },
-      "topics": [
-        {
-          "title": {
-            "en": "Blueprint Linting",
-            "es": "Linting de Blueprints",
-            "fr": "Linting de Blueprints",
-            "de": "Blueprint-Linting",
-            "zh": "蓝图检查",
-            "ja": "ブループリントのリンティング"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/01-dap_das_c_blueprint_linting.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/06-dap_das_bpa_supported_ide_targets.md"
         },
         {
           "title": {
-            "en": "Blueprint Reasoning",
-            "es": "Razonamiento de Blueprints",
-            "fr": "Raisonnement de Blueprints",
-            "de": "Blueprint-Reasoning",
-            "zh": "蓝图推理",
-            "ja": "ブループリントの推論"
+            "en": "Authoring capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/02-dap_das_c_blueprint_reasoning.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-03-das-capabilities/01-dap_das_c_authoring_capabilities.md"
         },
         {
           "title": {
-            "en": "MCP Server",
-            "es": "Servidor MCP",
-            "fr": "Serveur MCP",
-            "de": "MCP-Server",
-            "zh": "MCP 服务器",
-            "ja": "MCP サーバー"
+            "en": "Deployment capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/03-dap_das_c_bpa_mcp_server.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-03-das-capabilities/02-dap_das_c_deployment_capabilties.md"
         },
         {
           "title": {
-            "en": "Diagnostician",
-            "es": "Diagnosticador",
-            "fr": "Diagnostician",
-            "de": "Diagnostiker",
-            "zh": "诊断程序",
-            "ja": "診断プログラム"
+            "en": "Build blueprints with Blueprint AI Assistant"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapters/chapter-05-additional-features/04-dap_das_c_diagnostician.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-04-building-blueprints/01-dap_das_building_blueprints_with_bpa.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint linting"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/01-dap_das_c_blueprint_linting.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint reasoning"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/02-dap_das_c_blueprint_reasoning.md"
+        },
+        {
+          "title": {
+            "en": "Blueprint AI Assistant"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/03-dap_das_c_bpa_mcp_server.md"
+        },
+        {
+          "title": {
+            "en": "Diagnostician"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/04-dap_das_c_diagnostician.md"
+        },
+        {
+          "title": {
+            "en": "Additional functionalities of Blueprint AI Assistant"
+          },
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/README.md"
         }
       ]
     }
