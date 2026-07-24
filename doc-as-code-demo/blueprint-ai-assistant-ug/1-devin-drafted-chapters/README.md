@@ -1,4 +1,4 @@
-# Blueprint Assist Chapters and Topics
+# Blueprint AI Assistant User's Guide
 
 This directory contains a topic-based, human- and LLM-friendly breakdown of the *Blueprint AI Assistant with Dell Automation Studio User Guide*, augmented with links to the Blueprint Assist Training repository.
 
