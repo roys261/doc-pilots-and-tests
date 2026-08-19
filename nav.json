@@ -2,12 +2,121 @@
   "chapters": [
     {
       "title": {
-        "en": "1 Devin Drafted Chapters"
+        "en": "Administrative Guide"
       },
       "topics": [
         {
           "title": {
-            "en": "Dell Blueprint AI Assistant User's Guide"
+            "en": "VMware on Dell Private Cloud Administrative Guide"
+          },
+          "path": "administrative-guide/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 1: Introduction"
+          },
+          "path": "administrative-guide/chapter-01-introduction/01-about-this-guide.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 2: Product Overview"
+          },
+          "path": "administrative-guide/chapter-02-product-overview/01-vmware-on-dell-private-cloud.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 3: Architecture"
+          },
+          "path": "administrative-guide/chapter-03-architecture/01-architecture-overview.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 4: Administration"
+          },
+          "path": "administrative-guide/chapter-04-administration/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 5: Security"
+          },
+          "path": "administrative-guide/chapter-05-security/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 6: Operations"
+          },
+          "path": "administrative-guide/chapter-06-operations/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 7: Monitoring"
+          },
+          "path": "administrative-guide/chapter-07-monitoring/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 8: Maintenance"
+          },
+          "path": "administrative-guide/chapter-08-maintenance/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 9: Troubleshooting"
+          },
+          "path": "administrative-guide/chapter-09-troubleshooting/README.md"
+        },
+        {
+          "title": {
+            "en": "Chapter 10: Best Practices"
+          },
+          "path": "administrative-guide/chapter-10-best-practices/README.md"
+        },
+        {
+          "title": {
+            "en": "Appendices"
+          },
+          "path": "administrative-guide/appendices/README.md"
+        },
+        {
+          "title": {
+            "en": "Appendix A: Administrative Commands"
+          },
+          "path": "administrative-guide/appendices/appendix-a-administrative-commands.md"
+        },
+        {
+          "title": {
+            "en": "Appendix B: Configuration Reference"
+          },
+          "path": "administrative-guide/appendices/appendix-b-configuration-reference.md"
+        },
+        {
+          "title": {
+            "en": "Appendix C: Repository Sources"
+          },
+          "path": "administrative-guide/appendices/appendix-c-repository-sources.md"
+        },
+        {
+          "title": {
+            "en": "Appendix D: Glossary"
+          },
+          "path": "administrative-guide/appendices/appendix-d-glossary.md"
+        },
+        {
+          "title": {
+            "en": "Appendix E: Known Limitations"
+          },
+          "path": "administrative-guide/appendices/appendix-e-known-limitations.md"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Blueprint AI Assistant User Guide"
+      },
+      "topics": [
+        {
+          "title": {
+            "en": "1 Devin Drafted Chapters"
           },
           "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/README.md"
         },
