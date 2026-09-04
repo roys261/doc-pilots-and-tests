@@ -100,7 +100,7 @@ class MarkdownHTTPRequestHandler(SimpleHTTPRequestHandler):
             return exact_path
         
         # Try in administrative-guide
-        admin_path = os.path.join(current_dir, 'administrative-guide', path)
+        admin_path = os.path.join(current_dir, 'doc-as-code-demo', 'administrative-guide', path)
         if os.path.exists(admin_path):
             return admin_path
         
@@ -125,7 +125,7 @@ class MarkdownHTTPRequestHandler(SimpleHTTPRequestHandler):
         # Determine which guide this is
         if 'administrative-guide' in path or path.startswith('chapter-') or path.startswith('appendix'):
             guide_name = "VMware on Dell Private Cloud Administrative Guide"
-            guide_path = "administrative-guide"
+            guide_path = "doc-as-code-demo/administrative-guide"
         else:
             guide_name = "Blueprint AI Assistant User Guide"
             guide_path = "doc-as-code-demo/blueprint-ai-assistant-ug"

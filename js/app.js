@@ -71,7 +71,9 @@ class DocumentationPortal {
      */
     async loadTranslations() {
         try {
-            const response = await fetch('translations.json');
+            // Add cache-busting parameter to force reload
+            const cacheBuster = `?v=${Date.now()}`;
+            const response = await fetch('translations.json' + cacheBuster);
             if (!response.ok) {
                 throw new Error('Failed to load translations');
             }
@@ -124,7 +126,9 @@ class DocumentationPortal {
      */
     async loadNavigation() {
         try {
-            const response = await fetch('nav.json');
+            // Add cache-busting parameter to force reload
+            const cacheBuster = `?v=${Date.now()}`;
+            const response = await fetch('nav.json' + cacheBuster);
             if (!response.ok) {
                 throw new Error('Failed to load navigation data');
             }

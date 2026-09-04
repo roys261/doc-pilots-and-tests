@@ -7,461 +7,400 @@
       "topics": [
         {
           "title": {
-            "en": "VMware on Dell Private Cloud Administrative Guide"
+            "en": "Readme"
           },
-          "path": "administrative-guide/README.md"
+          "path": "doc-as-code-demo/administrative-guide/README.md"
         },
         {
           "title": {
-            "en": "Chapter 1: Introduction"
+            "en": "Readme"
           },
-          "path": "administrative-guide/chapter-01-introduction/01-about-this-guide.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/README.md"
         },
         {
           "title": {
-            "en": "Chapter 2: Product Overview"
+            "en": "Appendix A Administrative Commands"
           },
-          "path": "administrative-guide/chapter-02-product-overview/01-vmware-on-dell-private-cloud.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/appendix-a-administrative-commands.md"
         },
         {
           "title": {
-            "en": "Chapter 3: Architecture"
+            "en": "Appendix B Configuration Reference"
           },
-          "path": "administrative-guide/chapter-03-architecture/01-architecture-overview.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/appendix-b-configuration-reference.md"
         },
         {
           "title": {
-            "en": "Chapter 4: Administration"
+            "en": "Appendix C Repository Sources"
           },
-          "path": "administrative-guide/chapter-04-administration/README.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/appendix-c-repository-sources.md"
         },
         {
           "title": {
-            "en": "Chapter 5: Security"
+            "en": "Appendix D Glossary"
           },
-          "path": "administrative-guide/chapter-05-security/README.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/appendix-d-glossary.md"
         },
         {
           "title": {
-            "en": "Chapter 6: Operations"
+            "en": "Appendix E Known Limitations"
           },
-          "path": "administrative-guide/chapter-06-operations/README.md"
+          "path": "doc-as-code-demo/administrative-guide/appendices/appendix-e-known-limitations.md"
         },
         {
           "title": {
-            "en": "Chapter 7: Monitoring"
+            "en": "01 About This Guide"
           },
-          "path": "administrative-guide/chapter-07-monitoring/README.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-01-introduction/01-about-this-guide.md"
         },
         {
           "title": {
-            "en": "Chapter 8: Maintenance"
+            "en": "02 Product Overview"
           },
-          "path": "administrative-guide/chapter-08-maintenance/README.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-01-introduction/02-product-overview.md"
         },
         {
           "title": {
-            "en": "Chapter 9: Troubleshooting"
+            "en": "03 Related Documentation"
           },
-          "path": "administrative-guide/chapter-09-troubleshooting/README.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-01-introduction/03-related-documentation.md"
         },
         {
           "title": {
-            "en": "Chapter 10: Best Practices"
+            "en": "01 Vmware On Dell Private Cloud"
           },
-          "path": "administrative-guide/chapter-10-best-practices/README.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-02-product-overview/01-vmware-on-dell-private-cloud.md"
         },
         {
           "title": {
-            "en": "Appendices"
+            "en": "02 Vxrail"
           },
-          "path": "administrative-guide/appendices/README.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-02-product-overview/02-vxrail.md"
         },
         {
           "title": {
-            "en": "Appendix A: Administrative Commands"
+            "en": "03 Product Comparison"
           },
-          "path": "administrative-guide/appendices/appendix-a-administrative-commands.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-02-product-overview/03-product-comparison.md"
         },
         {
           "title": {
-            "en": "Appendix B: Configuration Reference"
+            "en": "Readme"
           },
-          "path": "administrative-guide/appendices/appendix-b-configuration-reference.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-02-product-overview/README.md"
         },
         {
           "title": {
-            "en": "Appendix C: Repository Sources"
+            "en": "01 Architecture Overview"
           },
-          "path": "administrative-guide/appendices/appendix-c-repository-sources.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-03-architecture/01-architecture-overview.md"
         },
         {
           "title": {
-            "en": "Appendix D: Glossary"
+            "en": "Readme"
           },
-          "path": "administrative-guide/appendices/appendix-d-glossary.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-03-architecture/README.md"
         },
         {
           "title": {
-            "en": "Appendix E: Known Limitations"
+            "en": "Readme"
           },
-          "path": "administrative-guide/appendices/appendix-e-known-limitations.md"
+          "path": "doc-as-code-demo/administrative-guide/chapter-04-administration/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-05-security/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-06-operations/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-07-monitoring/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-08-maintenance/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-09-troubleshooting/README.md"
+        },
+        {
+          "title": {
+            "en": "Readme"
+          },
+          "path": "doc-as-code-demo/administrative-guide/chapter-10-best-practices/README.md"
         }
       ]
     },
     {
       "title": {
-        "en": "Blueprint AI Assistant User Guide"
+        "en": "Blueprint Ai Assistant Ug"
       },
       "topics": [
         {
           "title": {
-            "en": "1 Devin Drafted Chapters"
+            "en": "Readme"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/README.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/README.md"
         },
         {
           "title": {
-            "en": "Chapter 1: Blueprint AI Assistant"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-01-blueprint-ai-assistant/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-01-blueprint-ai-assistant/index.md"
         },
         {
           "title": {
-            "en": "Install Blueprint AI Assistant  on Linux or macOS"
+            "en": "02 Install Blueprint Ai Assistant On Linux Or Macos"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-linux-or-macos.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-linux-or-macos.md"
         },
         {
           "title": {
-            "en": "Install Blueprint AI Assistant  on Windows"
+            "en": "02 Install Blueprint Ai Assistant On Windows"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-windows.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-on-windows.md"
         },
         {
           "title": {
-            "en": "Install Blueprint AI Assistant  through standalone binary distribution (Recommended)"
+            "en": "02 Install Blueprint Ai Assistant Through Standalone Binary Distribution"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-through-standalone-binary-distribution.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-install-blueprint-ai-assistant-through-standalone-binary-distribution.md"
         },
         {
           "title": {
-            "en": "Installation pre-requisites"
+            "en": "02 Installation Pre Requisites"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-installation-pre-requisites.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-installation-pre-requisites.md"
         },
         {
           "title": {
-            "en": "Integrate the IDE"
+            "en": "02 Integrate The Ide"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-integrate-the-ide.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-integrate-the-ide.md"
         },
         {
           "title": {
-            "en": "Supported IDE targets"
+            "en": "02 Supported Ide Targets"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-supported-ide-targets.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-supported-ide-targets.md"
         },
         {
           "title": {
-            "en": "Verify installation and integrations"
+            "en": "02 Verify Installation And Integrations"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/02-verify-installation-and-integrations.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/02-verify-installation-and-integrations.md"
         },
         {
           "title": {
-            "en": "Chapter 2: Install and verify"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-02-install-and-verify/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-02-install-and-verify/index.md"
         },
         {
           "title": {
-            "en": "Environment variables"
+            "en": "03 Environment Variables"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-environment-variables.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/03-environment-variables.md"
         },
         {
           "title": {
-            "en": "Manual configuration"
+            "en": "03 Manual Configuration"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-manual-configuration.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/03-manual-configuration.md"
         },
         {
           "title": {
-            "en": "Orchestrator authentication using Blueprint AI Assistant  setup wizard"
+            "en": "03 Orchestrator Authentication Using Blueprint Ai Assistant Setup Wizard"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-orchestrator-authentication-using-blueprint-ai-assistant-setup-wizard.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/03-orchestrator-authentication-using-blueprint-ai-assistant-setup-wizard.md"
         },
         {
           "title": {
-            "en": "SSL certificate configuration"
+            "en": "03 Ssl Certificate Configuration"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-ssl-certificate-configuration.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/03-ssl-certificate-configuration.md"
         },
         {
           "title": {
-            "en": "Types of credentials"
+            "en": "03 Types Of Credentials"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/03-types-of-credentials.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/03-types-of-credentials.md"
         },
         {
           "title": {
-            "en": "Chapter 3: Authentication and configuration"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-03-authentication-and-configuration/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-03-authentication-and-configuration/index.md"
         },
         {
           "title": {
-            "en": "Configure the MCP server"
+            "en": "04 Configure The Mcp Server"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-04-blueprint-ai-assistant-mcp-server/04-configure-the-mcp-server.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-04-blueprint-ai-assistant-mcp-server/04-configure-the-mcp-server.md"
         },
         {
           "title": {
-            "en": "Chapter 4: Blueprint AI Assistant  MCP server"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-04-blueprint-ai-assistant-mcp-server/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-04-blueprint-ai-assistant-mcp-server/index.md"
         },
         {
           "title": {
-            "en": "Authoring capabilities"
+            "en": "05 Authoring Capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-authoring-capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-authoring-capabilities.md"
         },
         {
           "title": {
-            "en": "Blueprint AI Assistant  capabilities"
+            "en": "05 Blueprint Ai Assistant Capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-blueprint-ai-assistant-capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-blueprint-ai-assistant-capabilities.md"
         },
         {
           "title": {
-            "en": "Deployment capabilities"
+            "en": "05 Deployment Capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-deployment-capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-deployment-capabilities.md"
         },
         {
           "title": {
-            "en": "Maintenance capabilities"
+            "en": "05 Maintenance Capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-maintenance-capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-maintenance-capabilities.md"
         },
         {
           "title": {
-            "en": "Review capabilities"
+            "en": "05 Review Capabilities"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-review-capabilities.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-review-capabilities.md"
         },
         {
           "title": {
-            "en": "Task-specific commands"
+            "en": "05 Task Specific Commands"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/05-task-specific-commands.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/05-task-specific-commands.md"
         },
         {
           "title": {
-            "en": "Chapter 5: Skills overview and integration"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-05-skills-overview-and-integration/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-05-skills-overview-and-integration/index.md"
         },
         {
           "title": {
-            "en": "Blueprint file structure"
+            "en": "06 Blueprint File Structure"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-blueprint-file-structure.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-06-blueprints-and-plugins/06-blueprint-file-structure.md"
         },
         {
           "title": {
-            "en": "Plugins and its usage"
+            "en": "06 Plugins And Its Usage"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-plugins-and-its-usage.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-06-blueprints-and-plugins/06-plugins-and-its-usage.md"
         },
         {
           "title": {
-            "en": "Resolve the plugin availability issues"
+            "en": "06 Resolve The Plugin Availability Issues"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/06-resolve-the-plugin-availability-issues.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-06-blueprints-and-plugins/06-resolve-the-plugin-availability-issues.md"
         },
         {
           "title": {
-            "en": "Chapter 6: Blueprints and plugins"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-06-blueprints-and-plugins/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-06-blueprints-and-plugins/index.md"
         },
         {
           "title": {
-            "en": "Create a blueprint directory"
+            "en": "07 Create A Blueprint Directory"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-a-blueprint-directory.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-a-blueprint-directory.md"
         },
         {
           "title": {
-            "en": "Create the blueprint"
+            "en": "07 Create The Blueprint"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-the-blueprint.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-create-the-blueprint.md"
         },
         {
           "title": {
-            "en": "Deploy the blueprint"
+            "en": "07 Deploy The Blueprint"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-deploy-the-blueprint.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-deploy-the-blueprint.md"
         },
         {
           "title": {
-            "en": "Troubleshoot any issues"
+            "en": "07 Troubleshoot Any Issues"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-troubleshoot-any-issues.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-07-build-blueprints-with-blueprint-ai-assistant/07-troubleshoot-any-issues.md"
         },
         {
           "title": {
-            "en": "Chapter 7: Build blueprints with Blueprint AI Assistant"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-07-build-blueprints-with-blueprint-ai-assistant/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-07-build-blueprints-with-blueprint-ai-assistant/index.md"
         },
         {
           "title": {
-            "en": "Diagnostician"
+            "en": "08 Diagnostician"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/08-diagnostician.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-08-blueprint-monitoring-and-diagnostician/08-diagnostician.md"
         },
         {
           "title": {
-            "en": "Prerequisites"
+            "en": "08 Prerequisites"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/08-prerequisites.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-08-blueprint-monitoring-and-diagnostician/08-prerequisites.md"
         },
         {
           "title": {
-            "en": "Chapter 8: Blueprint monitoring and diagnostician"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-08-blueprint-monitoring-and-diagnostician/index.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-08-blueprint-monitoring-and-diagnostician/index.md"
         },
         {
           "title": {
-            "en": "Blueprint linting"
+            "en": "09 Blueprint Linting"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-linting.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-linting.md"
         },
         {
           "title": {
-            "en": "Blueprint reasoning"
+            "en": "09 Blueprint Reasoning"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-reasoning.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-reasoning.md"
         },
         {
           "title": {
-            "en": "Section 021: Blueprint Visualizer"
+            "en": "09 Blueprint Visualizer"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-visualizer.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-blueprint-visualizer.md"
         },
         {
           "title": {
-            "en": "Workflow wrappers"
+            "en": "09 Workflow Wrappers"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-workflow-wrappers.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-09-additional-functionalities-of-blueprint-ai-assistant/09-workflow-wrappers.md"
         },
         {
           "title": {
-            "en": "Chapter 9: Additional functionalities of Blueprint AI Assistant"
+            "en": "Index"
           },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/1-devin-drafted-chapters/chapter-09-additional-functionalities-of-blueprint-ai-assistant/index.md"
-        }
-      ]
-    },
-    {
-      "title": {
-        "en": "2 Xml Converted Chapters"
-      },
-      "topics": [
-        {
-          "title": {
-            "en": "Blueprint AI Assistant"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-01-overview/01-dap_das_c_bp-assist_overview.md"
-        },
-        {
-          "title": {
-            "en": "Installation pre-requisites"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/01-dap_das_c_install_bp_pre-reqs.md"
-        },
-        {
-          "title": {
-            "en": "Install Blueprint AI Assistant through standalone binary distribution (Recommended)"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/02-dap_das_t_install_bp-assist.md"
-        },
-        {
-          "title": {
-            "en": "Install Blueprint AI Assistant on Windows"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/03-dap_das_t_install_bp_assist_windows.md"
-        },
-        {
-          "title": {
-            "en": "Install Blueprint AI Assistant on Linux or macOS"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/04-dap_das_t_install_bp_assist_linux.md"
-        },
-        {
-          "title": {
-            "en": "Integrate the IDE"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/05-dap_das_bpa_integrate_the_ide.md"
-        },
-        {
-          "title": {
-            "en": "Supported IDE targets"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-02-install-and-setup/06-dap_das_bpa_supported_ide_targets.md"
-        },
-        {
-          "title": {
-            "en": "Authoring capabilities"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-03-das-capabilities/01-dap_das_c_authoring_capabilities.md"
-        },
-        {
-          "title": {
-            "en": "Deployment capabilities"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-03-das-capabilities/02-dap_das_c_deployment_capabilties.md"
-        },
-        {
-          "title": {
-            "en": "Build blueprints with Blueprint AI Assistant"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-04-building-blueprints/01-dap_das_building_blueprints_with_bpa.md"
-        },
-        {
-          "title": {
-            "en": "Blueprint linting"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/01-dap_das_c_blueprint_linting.md"
-        },
-        {
-          "title": {
-            "en": "Blueprint reasoning"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/02-dap_das_c_blueprint_reasoning.md"
-        },
-        {
-          "title": {
-            "en": "Blueprint AI Assistant"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/03-dap_das_c_bpa_mcp_server.md"
-        },
-        {
-          "title": {
-            "en": "Diagnostician"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/04-dap_das_c_diagnostician.md"
-        },
-        {
-          "title": {
-            "en": "Additional functionalities of Blueprint AI Assistant"
-          },
-          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/2-xml-converted-chapters/chapter-05-additional-features/README.md"
+          "path": "doc-as-code-demo/blueprint-ai-assistant-ug/chapter-09-additional-functionalities-of-blueprint-ai-assistant/index.md"
         }
       ]
     }
